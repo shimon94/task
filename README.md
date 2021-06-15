@@ -1,2 +1,2 @@
-# task
- magiclist
+magiclist
+no requirments just code 
